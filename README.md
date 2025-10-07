@@ -1,3 +1,5 @@
+[Presentation Slides (PDF)](https://github.com/bhagyamoharana/HeatInteractionData/raw/main/Assets/TG4.pdf)
+
 # HeatInteractionData
 
 This repository contains a Jupyter Notebook and related assets for analyzing heat interaction patterns in different environments, possibly in the context of extended reality (XR), user experience, or cognitive performance studies.
