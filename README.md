@@ -1,4 +1,4 @@
-[Presentation Slides (PDF)](https://github.com/bhagyamoharana/HeatInteractionData/raw/main/Assets/TG4.pdf)
+[📑 View Presentation (PDF)](https://github.com/bhagyamoharana/HeatInteractionData/blob/main/Assets/TG4.pdf)
 
 # HeatInteractionData
 
